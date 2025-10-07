@@ -86,7 +86,9 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 
 
-![Dashboard Preview](Dashboard_marketing_1.png)(Dashboard_marketing_2.png)(Dashboard_marketing_3.png)
+![Dashboard Preview](Dashboard_marketing_1.png)
+![Dashboard Preview](Dashboard_marketing_2.png)
+![Dashboard Preview](Dashboard_marketing_3.png)
 
 
 
@@ -197,6 +199,7 @@ Feel free to use it for learning, portfolio inspiration, or analytics demonstrat
 
 
 ---
+
 
 
 
