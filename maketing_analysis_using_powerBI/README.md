@@ -120,9 +120,9 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 
 
-| File / Folder | Description |
+| File | Description |
 
-|----------------|-------------|
+|------|-------------|
 
 | `Dashboard\_marketing.pbix` | Full Power BI project file |
 
