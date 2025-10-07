@@ -124,17 +124,17 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 |------|-------------|
 
-| `Dashboard\_marketing.pbix` | Full Power BI project file |
+| `Dashboard_marketing.pbix` | Full Power BI project file |
 
-| `Dashboard\_marketing.pdf` | PDF export for quick preview |
+| `Dashboard_marketing.pdf` | PDF export for quick preview |
 
-| `Dashboard\_marketing\_1.png` | Dashboard preview image of page 1 |
+| `Dashboard_marketing_1.png` | Dashboard preview image of page 1 |
 
-| `Dashboard\_marketing\_2.png` | Dashboard preview image of page 2 |
+| `Dashboard_marketing_2.png` | Dashboard preview image of page 2 |
 
-| `Dashboard\_marketing\_3.png` | Dashboard preview image of page 3 |
+| `Dashboard_marketing_3.png` | Dashboard preview image of page 3 |
 
-| `dados\_marketing.csv` | Sample dataset used in dashboard |
+| `dados_marketing.csv` | Sample dataset used in dashboard |
 
 | `README.md` | Project documentation and insights |
 
@@ -148,7 +148,7 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 
 
-1\. Download the file: \[`Dashboard\_marketing.pbix`](Dashboard\_marketing.pbix)  
+1\. Download the file: \[`Dashboard_marketing.pbix`](Dashboard\_marketing.pbix)  
 
 2\. Open it in \*\*Power BI Desktop\*\*  
 
