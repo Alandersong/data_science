@@ -78,7 +78,7 @@ The notebook includes various other charts such as:
 ## 📌 Author
 
 **Alanderson Guido Oliveira**
-Python & Data Science Enthusiast
+Data Science Enthusiast
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
 
 ---
