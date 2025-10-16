@@ -10,7 +10,7 @@ Hi! I am Alanderson, a data science enthusiast. In this repo, you can find sampl
 - [Marketing Analysis using Power BI](marketing_analysis_using_powerBI/README.md)
   Interactive Power BI dashboard analyzing sales performance, customer demographics, and campaign conversions.
 
-- [... using SQL](..._using_sql/README.md)
+- [Olist E-Commerce Analysis using SQL Server](olist_ecommerce_analysis_using_sql/README.md)
   ...
 
 Feel free to explore the projects, notebooks, and scripts!
@@ -20,6 +20,7 @@ Feel free to explore the projects, notebooks, and scripts!
 Contact: alanderson.engcivil@gmail.com
 
 LinkedIn: https://linkedin.com/in/alandersong
+
 
 
 
