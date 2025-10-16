@@ -11,7 +11,7 @@ Hi! I am Alanderson, a data science enthusiast. In this repo, you can find sampl
   Interactive Power BI dashboard analyzing sales performance, customer demographics, and campaign conversions.
 
 - [Olist E-Commerce Analysis using SQL Server](olist_ecommerce_analysis_using_sql/README.md)
-  ...
+  SQL Server project analyzing Olist e-commerce data through cleaning, transformation, and business insight generation.
 
 Feel free to explore the projects, notebooks, and scripts!
 
@@ -20,6 +20,7 @@ Feel free to explore the projects, notebooks, and scripts!
 Contact: alanderson.engcivil@gmail.com
 
 LinkedIn: https://linkedin.com/in/alandersong
+
 
 
 
