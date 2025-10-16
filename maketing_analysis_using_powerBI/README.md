@@ -178,7 +178,7 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 **Alanderson Guido Oliveira**
 
-Python & Data Science Enthusiast
+Data Science Enthusiast
 
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
 
@@ -204,3 +204,4 @@ Feel free to use it for learning, portfolio inspiration, or analytics demonstrat
 
 
 > ✨ *This dashboard highlights marketing and sales analytics capabilities — from data modeling and visualization to business insight generation using Power BI.*
+
