@@ -101,7 +101,7 @@ It reflects skills required for **junior data analyst** and **trainee data engin
 
 ## 📫 Author
 **Alanderson Guido Oliveira**  
-*Trainee Data Engineer | Data Analyst*  
+*Data Science Enthusiast*  
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
 
 ---
