@@ -50,7 +50,7 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Dashboard_marketing_2.png)
+![Dashboard Preview](Dashboard_marketing.png)
 
 ➡️ **View the full dashboard (PDF format):** [Dashboard_marketing.pdf](Dashboard_marketing.pdf)
 
@@ -83,3 +83,4 @@ Data Analyst | Power BI, SQL & Python
 This project is shared under the [MIT License](LICENSE).  
 
 Feel free to use it for learning, portfolio inspiration, or analytics demonstrations.
+
