@@ -19,7 +19,7 @@ What I did:
 ![Dashboard Preview](marketing_analysis_using_powerBI/Dashboard_marketing.png)
 
 🔗 Project folder:
-maketing_analysis_using_powerBI
+(marketing_analysis_using_powerBI)
 
 🧠 **Student Data Analysis — Python**
 
@@ -37,7 +37,7 @@ What I did:
 ![Visualization](student_analysis_using_python/Visualization.png)
 
 🔗 Project folder:
-student_analysis_using_python
+(student_analysis_using_python)
 
 🛒 **E-Commerce Analysis — SQL**
 
@@ -55,7 +55,7 @@ What I did:
 ![Result tables](olist_ecommerce_analysis_using_sql/SQL.png)
 
 🔗 Project folder:
-/sql_olist_ecommerce_analysis
+(olist_ecommerce_analysis_using_sql)
 
 🛠 **Tools & Skills**
 
@@ -80,5 +80,6 @@ What I did:
 - LinkedIn: https://linkedin.com/in/alandersong
 
 - GitHub: https://github.com/Alandersong/data_science
+
 
 
