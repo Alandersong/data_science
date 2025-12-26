@@ -29,7 +29,6 @@ The analysis focuses on:
 
 ### 📍 Scatter Plot with Regression Line
 ![Reading vs Writing Regression](Visualization.png)
-Displays the linear relationship between Reading and Writing scores with a red regression line and annotated equation.
 
 ### 📊 Additional Charts
 The notebook includes various other charts such as:
