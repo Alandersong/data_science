@@ -95,7 +95,7 @@ It reflects skills required for junior data analyst roles and overlaps with entr
 
 Data Analyst | Power BI, SQL & Python
 
-[LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
+[LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong/data_science)
 
 ---
 
