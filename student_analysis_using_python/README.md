@@ -52,7 +52,7 @@ The notebook includes various other charts such as:
 
 Data Analyst | Power BI, SQL & Python
 
-[LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
+[LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong/data_science)
 
 ---
 
