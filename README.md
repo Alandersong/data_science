@@ -79,5 +79,6 @@ What I did:
 
 - LinkedIn: https://linkedin.com/in/alandersong
 
-- GitHub: https://github.com/Alandersong
+- GitHub: https://github.com/Alandersong/data_science
+
 
