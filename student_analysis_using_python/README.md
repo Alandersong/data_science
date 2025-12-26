@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis with Python
+# 📊 Student Performance Analysis using Python
 
 This project explores academic performance data of students using Python. The notebook includes data cleaning, visualization, statistical analysis, and interpretation of key educational patterns. It aims to identify how different factors — such as test preparation — influence scores in math, reading, and writing.
 
@@ -15,16 +15,6 @@ The analysis focuses on:
 
 ---
 
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `student_analysis.ipynb` | Main Jupyter notebook with code, visualizations, and analysis |
-| `student_analysis.py` | Script version of the notebook |
-| `expanded_data_with_more_features.csv` | Dataset used in the analysis. [Source: Kaggle - Students Exam Scores: Extended Dataset](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores/data) |
-
----
-
 ## 📌 Tools & Libraries
 
 - `pandas` for data manipulation
@@ -38,6 +28,7 @@ The analysis focuses on:
 ## 📈 Sample Visualizations
 
 ### 📍 Scatter Plot with Regression Line
+![Reading vs Writing Regression](Visualization.png)
 Displays the linear relationship between Reading and Writing scores with a red regression line and annotated equation.
 
 ### 📊 Additional Charts
@@ -50,39 +41,24 @@ The notebook includes various other charts such as:
 
 ## 🧠 Key Insights
 
-- Students who completed test preparation generally scored higher across all subjects.
-- Strong positive correlation between Reading and Writing scores.
-- The regression model confirms a statistically significant linear relationship.
-
----
-
-## 🚀 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Alandersong/student_analysis_using_python.git
-   cd student_analysis_using_python
-   ```
-
-2. Open the notebook:
-   - Launch Jupyter Notebook or JupyterLab
-   - Open `student_analysis.ipynb`
-
-3. (Optional) Install required libraries:
-   ```bash
-   pip install pandas numpy seaborn matplotlib plotly statsmodels
-   ```
+- Students who completed the test preparation course consistently outperformed others across all subjects.
+- Reading and Writing scores show a strong positive correlation, suggesting shared skill dependencies.
+- The linear regression model confirms a statistically significant relationship, explaining a high proportion of variance (R²).
 
 ---
 
 ## 📌 Author
 
 **Alanderson Guido Oliveira**
-Data Science Enthusiast
+
+Data Analyst | Power BI, SQL & Python
+
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use and modify it for educational or portfolio purposes.
+This project is shared under the [MIT License](LICENSE).  
+
+Feel free to use it for learning, portfolio inspiration, or analytics demonstrations.
