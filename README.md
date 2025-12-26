@@ -19,7 +19,7 @@ What I did:
 ![Dashboard Preview](marketing_analysis_using_powerBI/Dashboard_marketing.png)
 
 🔗 Project folder:
-(https://github.com/Alandersong/data_science/marketing_analysis_using_powerBI)
+[ABC](marketing_analysis_using_powerBI)
 
 🧠 **Student Data Analysis — Python**
 
@@ -80,6 +80,7 @@ What I did:
 - LinkedIn: https://linkedin.com/in/alandersong
 
 - GitHub: https://github.com/Alandersong/data_science
+
 
 
 
