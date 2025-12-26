@@ -74,7 +74,7 @@ It provides a clear, data-driven view of how different customer profiles, produc
 
 Data Analyst | Power BI, SQL & Python
 
-[LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong)
+[LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong/data_science)
 
 ---
 
@@ -83,4 +83,5 @@ Data Analyst | Power BI, SQL & Python
 This project is shared under the [MIT License](LICENSE).  
 
 Feel free to use it for learning, portfolio inspiration, or analytics demonstrations.
+
 
