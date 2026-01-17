@@ -1,6 +1,4 @@
-##📊 **Platform Performance Analysis (Excel)**
-
----
+## 📊 **Platform Performance Analysis (Excel)**
 
 ## 🔍 **Overview**
 
@@ -54,7 +52,7 @@ No Power Query, XLOOKUP, or modern Excel features were used.
 
 ---
 
-## ⚙️ **Workbook Structure**
+## ⚙️ **Workbook Structure**
 
 - **Raw_data** – Original dataset (source of truth)
 - **Data_prep** – Cleaning, normalization, calculated metrics
@@ -93,3 +91,4 @@ This project is shared under the [MIT License](LICENSE).
 
 
 Feel free to use it for learning, portfolio inspiration, or analytics demonstrations.
+
