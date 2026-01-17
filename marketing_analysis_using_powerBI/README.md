@@ -80,8 +80,9 @@ Data Analyst | Power BI, SQL & Python
 
 ## ⚖️ License
 
-This project is shared under the [MIT License](LICENSE).  
+This project is shared under the [MIT License](../LICENSE).  
 
 Feel free to use it for learning, portfolio inspiration, or analytics demonstrations.
+
 
 
