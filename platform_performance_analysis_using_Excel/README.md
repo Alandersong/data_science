@@ -78,7 +78,7 @@ Pivot summary sheets support exploratory analysis; the dashboard focuses on comm
 
 **Alanderson Guido Oliveira**
 
-Data Analyst | Power BI, SQL & Python
+Data Analyst | Power BI, SQL, Python & Excel
 
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong/data_science)
 
@@ -90,6 +90,7 @@ This project is shared under the [MIT License](../LICENSE).
 
 
 Feel free to use it for learning, portfolio inspiration, or analytics demonstrations.
+
 
 
 
