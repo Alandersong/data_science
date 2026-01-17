@@ -10,9 +10,7 @@ Objective: Build an interactive dashboard to analyze sales performance, customer
 What I did:
 
 - Power BI data modeling (relationships, hierarchies, and DAX measures)
-
 - Power Query data cleaning and transformation
-
 - Multi-dimensional data visualization and filtering
 
 📸 Dashboard preview:
@@ -28,9 +26,7 @@ Objective: Use SQL queries to extract business insights from an e-commerce datas
 What I did:
 
 - Cleaned and explored relational data using SQL
-
 - Wrote analytical queries to answer business questions
-
 - Analyzed sales performance across products and customers
 
 📸 Query / result preview:
@@ -46,9 +42,7 @@ Objective: Analyze student performance data to identify how different factors �
 What I did:
 
 - Cleaned and prepared data using Pandas
-
 - Performed exploratory data analysis with visualizations
-
 - Built and evaluated a regression model to analyze the correlation between reading and writing scores.
 
 📸 Visualization preview:
@@ -67,11 +61,8 @@ Analyze the cost structure and profitability of a food delivery platform, focusi
 What I did:
 
 - Cleaned and prepared raw transactional data using Excel formulas
-
 - Built structured analysis layers (data prep, pivot summaries, dashboards)
-
 - Created pivot tables for restaurant, customer, and platform-level insights
-
 - Designed a management-style dashboard with KPIs and visual summaries
 
 📸 Dashboard preview:
@@ -83,25 +74,19 @@ What I did:
 🛠 **Tools & Skills**
 
 - Power BI (Dashboards, DAX, Power Query)
-
 - SQL (Joins, aggregations, analytical queries)
-
 - Python (Pandas, NumPy, data visualization, basic modeling)
-
 - Excel (Formulas, Pivot Tables, Dashboards, Advanced Filters)
 
 📌 **Notes**
 
 - Each project folder contains detailed notebooks, scripts, and explanations
-
 - Projects are designed to reflect realistic analytical workflows
-
 - Focus on clarity, reproducibility, and business-oriented insights
 
 📬 **Contact**
 
 - Upwork: https://www.upwork.com/freelancers/~010b23c9000ae004bb?mp_source=share
-
 - LinkedIn: https://linkedin.com/in/alandersong
-
 - GitHub: https://github.com/Alandersong/data_science
+
