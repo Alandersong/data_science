@@ -1,6 +1,6 @@
 📊 **Data Analytics Portfolio**
 
-This repository contains selected data analytics projects using Power BI, SQL, and Python, focused on transforming raw data into clear insights, dashboards, and decision analysis for real-world scenarios.
+This repository contains selected data analytics projects using Power BI, SQL, Python, and Excel, focused on transforming raw data into clear insights, dashboards, and decision analysis for real-world scenarios.
 
 🔹 **Projects**
 📈 **Marketing & Sales Analysis — Power BI**
@@ -21,24 +21,6 @@ What I did:
 🔗 Project folder:
 [marketing_analysis_using_powerBI](marketing_analysis_using_powerBI)
 
-🧠 **Student Data Analysis — Python**
-
-Objective: Analyze student performance data to identify how different factors — such as test preparation — influence scores in math, reading, and writing.
-
-What I did:
-
-- Cleaned and prepared data using Pandas
-
-- Performed exploratory data analysis with visualizations
-
-- Built and evaluated a regression model to analyze the correlation between reading and writing scores.
-
-📸 Visualization preview:
-![Visualization](student_analysis_using_python/Visualization.png)
-
-🔗 Project folder:
-[student_analysis_using_python](student_analysis_using_python)
-
 🛒 **E-Commerce Analysis — SQL**
 
 Objective: Use SQL queries to extract business insights from an e-commerce dataset.
@@ -57,13 +39,56 @@ What I did:
 🔗 Project folder:
 [olist_ecommerce_analysis_using_sql](olist_ecommerce_analysis_using_sql)
 
+🧠 **Student Data Analysis — Python**
+
+Objective: Analyze student performance data to identify how different factors — such as test preparation — influence scores in math, reading, and writing.
+
+What I did:
+
+- Cleaned and prepared data using Pandas
+
+- Performed exploratory data analysis with visualizations
+
+- Built and evaluated a regression model to analyze the correlation between reading and writing scores.
+
+📸 Visualization preview:
+![Visualization](student_analysis_using_python/Visualization.png)
+
+🔗 Project folder:
+[student_analysis_using_python](student_analysis_using_python)
+
+ing_powerBI
+
+🧾 **Food Delivery Cost & Profitability Analysis — Excel**
+
+Objective:
+Analyze the cost structure and profitability of a food delivery platform, focusing on platform profit drivers, restaurant performance, customer behavior, and delivery efficiency.
+
+What I did:
+
+- Cleaned and prepared raw transactional data using Excel formulas
+
+- Built structured analysis layers (data prep, pivot summaries, dashboards)
+
+- Created pivot tables for restaurant, customer, and platform-level insights
+
+- Designed a management-style dashboard with KPIs and visual summaries
+
+📸 Dashboard preview:
+![Platform Performance Dashboard](platform_performance_analysis_using_Excel/Dashboard_overview.png)
+
+🔗 Project folder:
+[platform_performance_analysis_using_Excel](platform_performance_analysis_using_Excel)
+
 🛠 **Tools & Skills**
 
 - Power BI (Dashboards, DAX, Power Query)
 
+- SQL (Joins, aggregations, analytical queries)
+
 - Python (Pandas, NumPy, data visualization, basic modeling)
 
-- SQL (Joins, aggregations, analytical queries)
+- Excel (Formulas, Pivot Tables, Dashboards, Advanced Filters)
 
 📌 **Notes**
 
@@ -80,11 +105,3 @@ What I did:
 - LinkedIn: https://linkedin.com/in/alandersong
 
 - GitHub: https://github.com/Alandersong/data_science
-
-
-
-
-
-
-
-
