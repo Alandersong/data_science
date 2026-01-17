@@ -1,9 +1,9 @@
-📊 ## **Data Analytics Portfolio**
+## 📊 **Data Analytics Portfolio**
 
 This repository contains selected data analytics projects using Power BI, SQL, Python, and Excel, focused on transforming raw data into clear insights, dashboards, and decision analysis for real-world scenarios.
 
-🔹 ## **Projects**
-📈 ## **Marketing & Sales Analysis — Power BI**
+## 🔹 **Projects**
+## 📈 **Marketing & Sales Analysis — Power BI**
 
 Objective: Build an interactive dashboard to analyze sales performance, customer demographics, and marketing campaign results.
 
@@ -19,7 +19,7 @@ What I did:
 🔗 Project folder:
 [marketing_analysis_using_powerBI](marketing_analysis_using_powerBI)
 
-🛒 ## **E-Commerce Analysis — SQL**
+## 🛒 **E-Commerce Analysis — SQL**
 
 Objective: Use SQL queries to extract business insights from an e-commerce dataset.
 
@@ -35,7 +35,7 @@ What I did:
 🔗 Project folder:
 [olist_ecommerce_analysis_using_sql](olist_ecommerce_analysis_using_sql)
 
-🧠 ## **Student Data Analysis — Python**
+## 🧠 **Student Data Analysis — Python**
 
 Objective: Analyze student performance data to identify how different factors — such as test preparation — influence scores in math, reading, and writing.
 
@@ -51,7 +51,7 @@ What I did:
 🔗 Project folder:
 [student_analysis_using_python](student_analysis_using_python)
 
-🧾 ## **Food Delivery Cost & Profitability Analysis — Excel**
+## 🧾 **Food Delivery Cost & Profitability Analysis — Excel**
 
 Objective:
 Analyze the cost structure and profitability of a food delivery platform, focusing on platform profit drivers, restaurant performance, customer behavior, and delivery efficiency.
@@ -69,24 +69,21 @@ What I did:
 🔗 Project folder:
 [platform_performance_analysis_using_Excel](platform_performance_analysis_using_Excel)
 
-🛠 ## **Tools & Skills**
+## 🛠 **Tools & Skills**
 
 - Power BI (Dashboards, DAX, Power Query)
 - SQL (Joins, aggregations, analytical queries)
 - Python (Pandas, NumPy, data visualization, basic modeling)
 - Excel (Formulas, Pivot Tables, Dashboards, Advanced Filters)
 
-📌 ## **Notes**
+## 📌 **Notes**
 
 - Each project folder contains detailed notebooks, scripts, and explanations
 - Projects are designed to reflect realistic analytical workflows
 - Focus on clarity, reproducibility, and business-oriented insights
 
-📬 ## **Contact**
+## 📬 **Contact**
 
 - Upwork: https://www.upwork.com/freelancers/~010b23c9000ae004bb?mp_source=share
 - LinkedIn: https://linkedin.com/in/alandersong
 - GitHub: https://github.com/Alandersong/data_science
-
-
-
