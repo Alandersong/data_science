@@ -50,7 +50,7 @@ The notebook includes various other charts such as:
 
 **Alanderson Guido Oliveira**
 
-Data Analyst | Power BI, SQL & Python
+Data Analyst | Power BI, SQL, Python & Excel
 
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong/data_science)
 
