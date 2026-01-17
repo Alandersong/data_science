@@ -93,7 +93,7 @@ It reflects skills required for junior data analyst roles and overlaps with entr
 ## 📫 Author
 **Alanderson Guido Oliveira**  
 
-Data Analyst | Power BI, SQL & Python
+Data Analyst | Power BI, SQL, Python & Excel
 
 [LinkedIn](https://www.linkedin.com/in/alandersong) · [GitHub](https://github.com/Alandersong/data_science)
 
