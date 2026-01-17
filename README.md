@@ -51,8 +51,6 @@ What I did:
 🔗 Project folder:
 [student_analysis_using_python](student_analysis_using_python)
 
-ing_powerBI
-
 🧾 **Food Delivery Cost & Profitability Analysis — Excel**
 
 Objective:
@@ -89,4 +87,5 @@ What I did:
 - Upwork: https://www.upwork.com/freelancers/~010b23c9000ae004bb?mp_source=share
 - LinkedIn: https://linkedin.com/in/alandersong
 - GitHub: https://github.com/Alandersong/data_science
+
 
