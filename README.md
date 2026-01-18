@@ -91,7 +91,6 @@ What I did:
 
 ## 📬 **Contact**
 
-- Upwork: https://www.upwork.com/freelancers/~010b23c9000ae004bb?mp_source=share
-- LinkedIn: https://linkedin.com/in/alandersong
-- GitHub: https://github.com/Alandersong/data_science
-
+- [Upwork](https://www.upwork.com/freelancers/~010b23c9000ae004bb?mp_source=share)
+- [LinkedIn](https://linkedin.com/in/alandersong)
+- [GitHub](https://github.com/Alandersong/data_science)
